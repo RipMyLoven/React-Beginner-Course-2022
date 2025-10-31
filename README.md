@@ -1,7 +1,9 @@
-# PedroTech React Course For Beginners 2022
+# React begginer course 2022
 
-The playlist for all the tutorials is [HERE](https://www.youtube.com/playlist?list=PLpPqplz6dKxW5ZfERUPoYTtNUNvrEebAR).
+## Episode §8
+Added a routes: Contact, Menu, Home
+![CONTACT](public/img/{B6009E2C-70DB-4BAB-948B-5308B55CDDF5}.png)
+![MENU](public/img/{AEFAE47C-79FF-4D21-B884-2B33E9A6AED6}.png)
+![HOME](public/img/{7EA0886D-EF48-427A-9020-128B028EF456}.png)
 
-## How to use this repository.
-
-The code for each episode / exercise will exist in a branch for that episode. For example, if you want to see the code for episode 5, you will find it on the branch called `episode5`.
+Used for it "react-router-dom" and react-tools
